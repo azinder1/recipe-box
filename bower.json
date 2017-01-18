@@ -1,0 +1,20 @@
+{
+  "name": "angular2-skeleton",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Adam Zinder <adam.zinder@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/azinder1/trackSuggester",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
